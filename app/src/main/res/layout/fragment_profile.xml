@@ -10,5 +10,5 @@
         android:layout_height="wrap_content"
         android:text="This is Profile Fragment"
         android:textSize="24sp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
 </LinearLayout>
